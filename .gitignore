@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.dat
+*.bz2
+venv/
+.venv/
+.vscode/
